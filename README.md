@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# RN Simple Meditation
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## What is This Project?
 
-## Get started
+This project is learning-based project from freeCodeCamp tutorial. A React Native Meditation App using Expo (including Expo Router), Typescript, NativeWind v2, React Context and Modal. Based on <a href="https://www.youtube.com/watch?v=9UKCv9T_rIo">this tutorial</a>
 
-1. Install dependencies
+## Available Features
 
-   ```bash
-   npm install
-   ```
+- Listen to Meditation Music with Timer
+- Affirmations with Encouraging Words
 
-2. Start the app
+## Upcoming Features
 
-   ```bash
-    npx expo start
-   ```
+## Release Date
 
-In the output, you'll find options to open the app in a
+**7 December 2024**
+Available on <a href="https://konekkonekko.github.io">My Website</a>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Install
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+git clone https://github.com/KonekkoNekko/simple-meditation-RN.git
+cd simple-meditation-RN
+npm i
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Run
 
-## Learn more
+Run with Expo
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```
+npx expo start
+```
